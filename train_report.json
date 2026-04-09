@@ -1,0 +1,16 @@
+{
+  "top": {
+    "lam": 0.001,
+    "n_train": 3915,
+    "n_val": 1034,
+    "med_train": 135.24,
+    "med_val": 126.46
+  },
+  "bottom": {
+    "lam": 0.001,
+    "n_train": 3369,
+    "n_val": 970,
+    "med_train": 118.54,
+    "med_val": 142.42
+  }
+}
